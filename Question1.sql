@@ -1,0 +1,1 @@
+select SUM(Quantity) AS 'Total sales of the products' From Sales
